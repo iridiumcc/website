@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-  <title>Axiom Example</title>
+  <title>SCF.AI</title>
   <subtitle>Axiom is a powerful, high performance, modular Hugo theme, built with Tailwind CSS and Alpine JS.</subtitle>
-  <id>https://iridium.cc/</id>
+  <id>https://scf.ai/</id>
   <author>
-    <name>Axiom Example</name>
-    <uri>https://iridium.cc/</uri>
+    <name>SCF.AI</name>
+    <uri>https://scf.ai/</uri>
   </author>
-  <icon>https://iridium.cc/image/brand/icon-1-1.png</icon>
-  <logo>https://iridium.cc/image/brand/icon-2-1.png</logo>
-  <updated>2021-06-27T14:48:15Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://iridium.cc/feed.atom" hreflang="en-us"/>
-  <link rel="alternate" type="text/html" href="https://iridium.cc/" hreflang="en-us"/>
+  <icon>https://scf.ai/image/brand/icon-1-1.png</icon>
+  <logo>https://scf.ai/image/brand/icon-2-1.png</logo>
+  <updated>2021-06-27T15:03:40Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://scf.ai/feed.atom" hreflang="en-us"/>
+  <link rel="alternate" type="text/html" href="https://scf.ai/" hreflang="en-us"/>
   <entry>
     <title>Example Post 5</title>
     <author>
       <name>Axiom Theme</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>https://iridium.cc/example-post-5/</id>
+    <id>https://scf.ai/example-post-5/</id>
     <updated>2021-06-27T14:00:00Z</updated>
     <published>2021-06-27T14:00:00Z</published>
     <content type="html"><![CDATA[<h1 id="this-would-be-a-post">This would be a post</h1>
@@ -30,7 +30,7 @@
       <name>Axiom Theme</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>https://iridium.cc/example-post-4/</id>
+    <id>https://scf.ai/example-post-4/</id>
     <updated>2021-06-27T13:00:00Z</updated>
     <published>2021-06-27T13:00:00Z</published>
     <content type="html"><![CDATA[<p>And go...</p>
@@ -56,7 +56,7 @@ width="100%">
       <name>Axiom Theme</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>https://iridium.cc/example-post-3/</id>
+    <id>https://scf.ai/example-post-3/</id>
     <updated>2020-01-01T18:30:00Z</updated>
     <published>2020-01-01T18:30:00Z</published>
     <content type="html"><![CDATA[<hr>
@@ -252,7 +252,7 @@ width="100%">
       <name>Axiom Theme</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>https://iridium.cc/example-post-2/</id>
+    <id>https://scf.ai/example-post-2/</id>
     <updated>2020-01-01T17:30:00Z</updated>
     <published>2020-01-01T17:30:00Z</published>
     <content type="html"><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
@@ -426,7 +426,7 @@ width="100%">
       <name>Axiom Theme</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>https://iridium.cc/example-post-1/</id>
+    <id>https://scf.ai/example-post-1/</id>
     <updated>2020-01-01T16:30:00Z</updated>
     <published>2020-01-01T16:30:00Z</published>
     <content type="html"><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>

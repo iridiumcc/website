@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Disallow: /privacy/
 
-Sitemap: https://iridium.cc/sitemap.xml
+Sitemap: https://scf.ai/sitemap.xml
