@@ -1,12 +1,12 @@
-baseURL = "https://iridium.cc"
+baseURL = "https://scf.ai"
 
-title = "Axiom Example"
+title = "SCF.AI"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
 theme = "axiom"
 
-paginate = 2
+paginate = 6
 canonifyURLs = false
 summaryLength = 40
 rssLimit = 100
@@ -25,8 +25,8 @@ dateFormat = "Jan 2, 2006 3:04PM"
 highlight = "dark"
 
 [params.brand]
-domain = "example.com"
-email = "info@example.com"
+domain = "scf.ai"
+email = "self@scf.ai"
 
 [params.social]
 facebook = "https://www.facebook.com/user_or_page"
