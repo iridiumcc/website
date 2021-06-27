@@ -9,7 +9,7 @@
   </author>
   <icon>https://iridium.cc/image/brand/icon-1-1.png</icon>
   <logo>https://iridium.cc/image/brand/icon-2-1.png</logo>
-  <updated>2021-06-27T14:43:46Z</updated>
+  <updated>2021-06-27T14:48:15Z</updated>
   <link rel="self" type="application/atom+xml" href="https://iridium.cc/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://iridium.cc/" hreflang="en-us"/>
   <entry>
@@ -21,7 +21,8 @@
     <id>https://iridium.cc/example-post-5/</id>
     <updated>2021-06-27T14:00:00Z</updated>
     <published>2021-06-27T14:00:00Z</published>
-    <content type="html"><![CDATA[<p>And go...</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="this-would-be-a-post">This would be a post</h1>
+<p>And it is quite easy to write one and maintain it using git.</p>]]></content>
   </entry>
   <entry>
     <title>Example Post 4</title>
