@@ -10,4 +10,6 @@ maxWidthFeature = "max-w-4xl"
 maxWidthContent = "max-w-4xl"
 +++
 
-And go...
+# This would be a post
+
+And it is quite easy to write one and maintain it using git.
