@@ -9,9 +9,20 @@
   </author>
   <icon>https://iridium.cc/image/brand/icon-1-1.png</icon>
   <logo>https://iridium.cc/image/brand/icon-2-1.png</logo>
-  <updated>2021-06-27T13:29:28Z</updated>
+  <updated>2021-06-27T14:43:46Z</updated>
   <link rel="self" type="application/atom+xml" href="https://iridium.cc/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://iridium.cc/" hreflang="en-us"/>
+  <entry>
+    <title>Example Post 5</title>
+    <author>
+      <name>Axiom Theme</name>
+      <uri>https://example.com/</uri>
+    </author>
+    <id>https://iridium.cc/example-post-5/</id>
+    <updated>2021-06-27T14:00:00Z</updated>
+    <published>2021-06-27T14:00:00Z</published>
+    <content type="html"><![CDATA[<p>And go...</p>]]></content>
+  </entry>
   <entry>
     <title>Example Post 4</title>
     <author>
@@ -47,9 +58,15 @@ width="100%">
     <id>https://iridium.cc/example-post-3/</id>
     <updated>2020-01-01T18:30:00Z</updated>
     <published>2020-01-01T18:30:00Z</published>
-    <content type="html"><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
+    <content type="html"><![CDATA[<hr>
+<h2 id="markup-mmark">katex: true
+markup: &quot;mmark&quot;</h2>
+<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
 <h2 id="headings">Headings</h2>
 <p>The following HTML <code>&lt;h1&gt;</code>—<code>&lt;h6&gt;</code> elements represent six levels of section headings. <code>&lt;h1&gt;</code> is the highest section level while <code>&lt;h6&gt;</code> is the lowest.</p>
+<p>The following</p>
+<p>$$\int_{a}^{b} x^2 dx$$</p>
+<p>Is an integral</p>
 <h1 id="h1">H1</h1>
 <h2 id="h2">H2</h2>
 <h3 id="h3">H3</h3>

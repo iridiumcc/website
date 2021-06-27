@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://iridium.cc/</loc>
-    <lastmod>2021-06-27T13:00:00Z</lastmod>
+    <lastmod>2021-06-27T14:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iridium.cc/example-post-5/</loc>
+    <lastmod>2021-06-27T14:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iridium.cc/posts/</loc>
+    <lastmod>2021-06-27T14:00:00Z</lastmod>
   </url>
   <url>
     <loc>https://iridium.cc/example-post-4/</loc>
     <lastmod>2021-06-27T13:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://iridium.cc/posts/</loc>
-    <lastmod>2021-06-27T13:00:00Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iridium.cc/tags/axiom/</loc>
+    <loc>https://iridium.cc/tags/alkaloids/</loc>
     <lastmod>2020-01-01T18:30:00Z</lastmod>
   </url>
   <url>
-    <loc>https://iridium.cc/categories/axiom/</loc>
+    <loc>https://iridium.cc/categories/artificial-intelligence/</loc>
     <lastmod>2020-01-01T18:30:00Z</lastmod>
   </url>
   <url>
@@ -25,23 +29,19 @@
     <lastmod>2020-01-01T18:30:00Z</lastmod>
   </url>
   <url>
+    <loc>https://iridium.cc/tags/euphorikanin/</loc>
+    <lastmod>2020-01-01T18:30:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://iridium.cc/example-post-3/</loc>
     <lastmod>2020-01-01T18:30:00Z</lastmod>
   </url>
   <url>
-    <loc>https://iridium.cc/tags/hugo/</loc>
+    <loc>https://iridium.cc/categories/machine-learning/</loc>
     <lastmod>2020-01-01T18:30:00Z</lastmod>
   </url>
   <url>
-    <loc>https://iridium.cc/categories/hugo/</loc>
-    <lastmod>2020-01-01T18:30:00Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iridium.cc/tags/jamstack/</loc>
-    <lastmod>2020-01-01T18:30:00Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iridium.cc/categories/jamstack/</loc>
+    <loc>https://iridium.cc/tags/polyketides/</loc>
     <lastmod>2020-01-01T18:30:00Z</lastmod>
   </url>
   <url>
@@ -49,7 +49,35 @@
     <lastmod>2020-01-01T18:30:00Z</lastmod>
   </url>
   <url>
+    <loc>https://iridium.cc/categories/total-synthesis/</loc>
+    <lastmod>2020-01-01T18:30:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iridium.cc/tags/axiom/</loc>
+    <lastmod>2020-01-01T17:30:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iridium.cc/categories/axiom/</loc>
+    <lastmod>2020-01-01T17:30:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://iridium.cc/example-post-2/</loc>
+    <lastmod>2020-01-01T17:30:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iridium.cc/tags/hugo/</loc>
+    <lastmod>2020-01-01T17:30:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iridium.cc/categories/hugo/</loc>
+    <lastmod>2020-01-01T17:30:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iridium.cc/tags/jamstack/</loc>
+    <lastmod>2020-01-01T17:30:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iridium.cc/categories/jamstack/</loc>
     <lastmod>2020-01-01T17:30:00Z</lastmod>
   </url>
   <url>
